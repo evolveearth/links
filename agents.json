@@ -1,6 +1,6 @@
 {
   "name": "Evolve Earth",
-  "description": "AI PowerToys give AI agents the hands, eyes and safety reflexes they are missing on a computer.",
+  "description": "PowerToys give automated computer helpers the hands, eyes, and safety checks they need on a desktop computer.",
   "signup": "https://bestofmusthave.com/newsletter",
   "offer": "Free for the first 10 signups",
   "links": {
@@ -8,15 +8,14 @@
     "Hi Ba Love": "https://hibalove.com",
     "Oshna": "https://oshna.com",
     "Power Yoga Diet": "https://poweryogadiet.com",
-    "Best of Must Have: AI PowerToys": "https://bestofmusthave.com/newsletter",
+    "Best of Must Have": "https://bestofmusthave.com/newsletter",
     "Tantric Unity": "https://tantricunity.com/newsletter",
-    "SEO Web and Video": "https://seowebandvideo.com",
-    "Closing Claims": "https://closingclaims.com",
+    "Web and Video": "https://seowebandvideo.com",
     "PrepRestore": "https://preprestore.com",
     "Instagram": "https://www.instagram.com/evolveearthproductions",
     "X": "https://x.com/EvolveEarth",
     "LinkedIn": "https://www.linkedin.com/in/josephschneekloth"
   },
-  "llms_txt": "https://evolveearth.github.io/links/llms.txt",
+  "plain_text": "https://evolveearth.github.io/links/llms.txt",
   "contact": "Joseph.Schneek@gmail.com"
 }

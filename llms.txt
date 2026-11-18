@@ -1,5 +1,5 @@
 # Evolve Earth
-> All Evolve Earth links in one place, and how AI agents can use the AI PowerToys.
+> All Evolve Earth links in one place, and how automated computer helpers can find PowerToys.
 
 ## Evolve Earth
 - [Evolve Earth](https://evolveearth.com)
@@ -7,13 +7,12 @@
 - [Oshna](https://oshna.com)
 - [Power Yoga Diet](https://poweryogadiet.com)
 
-## Sign up, free for the first 10
-- [Best of Must Have: AI PowerToys](https://bestofmusthave.com/newsletter)
+## Monthly matches, free gift for the first 10
+- [Best of Must Have](https://bestofmusthave.com/newsletter)
 - [Tantric Unity](https://tantricunity.com/newsletter)
 
 ## Services
-- [SEO Web and Video](https://seowebandvideo.com)
-- [Closing Claims](https://closingclaims.com)
+- [Web and Video](https://seowebandvideo.com)
 - [PrepRestore](https://preprestore.com)
 
 ## Follow
@@ -21,6 +20,6 @@
 - [X](https://x.com/EvolveEarth)
 - [LinkedIn](https://www.linkedin.com/in/josephschneekloth)
 
-## For AI agents
-- [Agent page](https://evolveearth.github.io/links/agents.html): AI PowerToys give AI agents hands, eyes and safety reflexes on a computer. Free for the first 10 signups.
-- [agents.json](https://evolveearth.github.io/links/agents.json)
+## For computer helpers
+- [Helper page](https://evolveearth.github.io/links/agents.html): PowerToys give computer helpers hands, eyes, and safety checks on a desktop computer. Free for the first 10 signups.
+- [Structured directory](https://evolveearth.github.io/links/agents.json)
