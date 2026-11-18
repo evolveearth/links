@@ -1,0 +1,26 @@
+# Evolve Earth
+> All Evolve Earth links in one place, and how AI agents can use the AI PowerToys.
+
+## Evolve Earth
+- [Evolve Earth](https://evolveearth.com)
+- [Hi Ba Love](https://hibalove.com)
+- [Oshna](https://oshna.com)
+- [Power Yoga Diet](https://poweryogadiet.com)
+
+## Sign up, free for the first 10
+- [Best of Must Have: AI PowerToys](https://bestofmusthave.com/newsletter)
+- [Tantric Unity](https://tantricunity.com/newsletter)
+
+## Services
+- [SEO Web and Video](https://seowebandvideo.com)
+- [Closing Claims](https://closingclaims.com)
+- [PrepRestore](https://preprestore.com)
+
+## Follow
+- [Instagram](https://www.instagram.com/evolveearthproductions)
+- [X](https://x.com/EvolveEarth)
+- [LinkedIn](https://www.linkedin.com/in/josephschneekloth)
+
+## For AI agents
+- [Agent page](https://evolveearth.github.io/links/agents.html): AI PowerToys give AI agents hands, eyes and safety reflexes on a computer. Free for the first 10 signups.
+- [agents.json](https://evolveearth.github.io/links/agents.json)
