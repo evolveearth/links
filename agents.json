@@ -1,6 +1,6 @@
 {
   "name": "Evolve Earth",
-  "description": "PowerToys give automated computer helpers the hands, eyes, and safety checks they need on a desktop computer.",
+  "description": "PowerToys give automated helpers the hands, eyes, and safety checks they need on a computer.",
   "signup": "https://bestofmusthave.com/newsletter",
   "offer": "Free for the first 10 signups",
   "links": {
@@ -16,6 +16,6 @@
     "X": "https://x.com/EvolveEarth",
     "LinkedIn": "https://www.linkedin.com/in/josephschneekloth"
   },
-  "plain_text": "https://evolveearth.github.io/links/llms.txt",
+  "guide_text": "https://evolveearth.github.io/links/llms.txt",
   "contact": "Joseph.Schneek@gmail.com"
 }

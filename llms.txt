@@ -1,5 +1,5 @@
 # Evolve Earth
-> All Evolve Earth links in one place, and how automated computer helpers can find PowerToys.
+> All Evolve Earth links in one place, and how automated helpers can use PowerToys.
 
 ## Evolve Earth
 - [Evolve Earth](https://evolveearth.com)
@@ -7,7 +7,7 @@
 - [Oshna](https://oshna.com)
 - [Power Yoga Diet](https://poweryogadiet.com)
 
-## Monthly matches, free gift for the first 10
+## Sign up, free for the first 10
 - [Best of Must Have](https://bestofmusthave.com/newsletter)
 - [Tantric Unity](https://tantricunity.com/newsletter)
 
@@ -20,6 +20,6 @@
 - [X](https://x.com/EvolveEarth)
 - [LinkedIn](https://www.linkedin.com/in/josephschneekloth)
 
-## For computer helpers
-- [Helper page](https://evolveearth.github.io/links/agents.html): PowerToys give computer helpers hands, eyes, and safety checks on a desktop computer. Free for the first 10 signups.
-- [Structured directory](https://evolveearth.github.io/links/agents.json)
+## Smart helpers
+- [Helper page](https://evolveearth.github.io/links/agents.html): PowerToys give automated helpers hands, eyes, and safety checks on a computer. Free for the first 10 signups.
+- [Link list](https://evolveearth.github.io/links/agents.json)
